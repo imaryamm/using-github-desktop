@@ -35,6 +35,9 @@
 
 	[markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
+  `029390`
+
+
   ```
 {
   "firstName": "John",
@@ -42,3 +45,24 @@
   "age": 25
 }
 ```
+
+
+[^1]
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+------
+-------
+
+
+| NAME | GRADE |
+|-------|------|
+| ALI | PASS |
+| FATIMA | PASS |
+| SHAZIA | FAIL |
+
+~~dumb~~
+
